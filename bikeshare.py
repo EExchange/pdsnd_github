@@ -1,6 +1,8 @@
 import time
 import pandas as pd
 import numpy as np
+# add welcome before function start
+print('Hi, this is my first python project！')
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}
