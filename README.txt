@@ -1,17 +1,34 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+Project Title: Bike Share Data research
 
-### Date created
-Create on 2022.0516
+Github link:https://github.com/EExchange/pdsnd_github.git
+-------------------------------------------------------------
+Project created on 2022.05.16
+-------------------------------------------------------------
+Description:
+In the project, I use the data from the system to explore from several aspect:
+#1 Popular times of travel 
+most common month
+•	most common day of week
+•	most common hour of day
+#2 Popular stations and trip
+•	most common start station
+•	most common end station
+•	most common trip from start to end 
+#3 Trip duration
+•	total travel time
+•	average travel time
+#4 User info
+•	counts of each user type
+•	counts of each gender 
+•	earliest, most recent, most common year of birth 
+-------------------------------------------------------------
 
-### Project Title
-Bike share
+The files I used for the project:
 
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+•	chicago.csv
+•	new_york_city.csv
+•	washington.csv
+-------------------------------------------------------------
+Credits:
+https://pandas.pydata.org/pandas-docs/stable/reference/index.html
+https://knowledge.udacity.com/questions/719373
